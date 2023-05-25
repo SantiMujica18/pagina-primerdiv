@@ -1,0 +1,26 @@
+h1.Nombre{
+   color: rgb(15, 15, 15);
+   font-size: 68px;
+}
+h2.Gustos{
+   color: rgb(252, 252, 252);
+}
+p.Pais{
+   color: aliceblue;
+}
+li{
+   color: aliceblue;
+}
+body{
+   margin: 0px;
+   padding: 0px;
+   background-color: rgb(62, 143, 180);
+}
+.Bandera{
+   border: 100px; 
+   border-radius: 30px;
+}
+.cuidad{
+   border: 200px;
+   border-radius: 40px;
+}
